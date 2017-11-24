@@ -7,7 +7,7 @@
  * MIT Licensed.
  */
 
-Module.register('MMM-syslog',{
+Module.register('Zen Dashboard',{
 
 	messages: [],
 
